@@ -1,0 +1,11 @@
+C:\Users\ujvar\OneDrive\Dokumentumok\Projektek\Simulation\Simulation\obj\Debug\net8.0\Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ujvar\OneDrive\Dokumentumok\Projektek\Simulation\Simulation\obj\Debug\net8.0\Simulation.AssemblyInfoInputs.cache
+C:\Users\ujvar\OneDrive\Dokumentumok\Projektek\Simulation\Simulation\obj\Debug\net8.0\Simulation.AssemblyInfo.cs
+C:\Users\ujvar\OneDrive\Dokumentumok\Projektek\Simulation\Simulation\obj\Debug\net8.0\Simulation.csproj.CoreCompileInputs.cache
+C:\Users\ujvar\OneDrive\Dokumentumok\Projektek\Simulation\Simulation\bin\Debug\net8.0\Simulation.deps.json
+C:\Users\ujvar\OneDrive\Dokumentumok\Projektek\Simulation\Simulation\bin\Debug\net8.0\Simulation.dll
+C:\Users\ujvar\OneDrive\Dokumentumok\Projektek\Simulation\Simulation\bin\Debug\net8.0\Simulation.pdb
+C:\Users\ujvar\OneDrive\Dokumentumok\Projektek\Simulation\Simulation\obj\Debug\net8.0\Simulation.dll
+C:\Users\ujvar\OneDrive\Dokumentumok\Projektek\Simulation\Simulation\obj\Debug\net8.0\refint\Simulation.dll
+C:\Users\ujvar\OneDrive\Dokumentumok\Projektek\Simulation\Simulation\obj\Debug\net8.0\Simulation.pdb
+C:\Users\ujvar\OneDrive\Dokumentumok\Projektek\Simulation\Simulation\obj\Debug\net8.0\ref\Simulation.dll
